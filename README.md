@@ -3,12 +3,12 @@ In this article, we will develop an Interactive Weather Application using ReactJ
 
 We have used OpenWeatherMap API which provides us with access to weather data from around the world. We have fetched the weather information for various locations, including wind speed and more.
 
-Prerequisites
+# Prerequisites
 - ReactJS
 - CSS
 - JSX
 - Function Components in React
-Approach
+# Approach
 - Developed an interactive Weather Application using the ReactJS Framework.
 - Enabled users to search and get weather information for various cities in real time.
 - Integrated a weather API to fetch and display city-specific weather details based on user input.
